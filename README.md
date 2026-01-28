@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/language-C-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Repo Size](https://img.shields.io/github/repo-size/aadhithyagavli/C-ALGORITHMS?label=Repo%20Size&color=blue)
+![Repo Size](https://img.shields.io/github/repo-size/aadhithyagavli/C-ALGORITHMS)
 ![Stars](https://img.shields.io/github/stars/aadhithyagavli/C-ALGORITHMS?style=social)
 ![Forks](https://img.shields.io/github/forks/aadhithyagavli/C-ALGORITHMS?style=social)
 
@@ -21,6 +21,7 @@ C-ALGORITHMS/
 ├── 🔎 binarysearch.c  
 ├── 🧮 factorial.c  
 ├── ➗ gcd.c  
+├── 📊 maxminarray.c  
 ├── ➕ matrixaddition.c  
 ├── ✖️ multiplication.c  
 ├── 💻 cmdlineargs.c  
@@ -37,7 +38,7 @@ C-ALGORITHMS/
 
 ## ⚙️ How to Run
 
-Compile any `.c` file using GCC:
+Compile any `.c` file using GCC: gcc filename.c -o outputname ./outputname
 
 
 ---
@@ -48,7 +49,7 @@ Compile any `.c` file using GCC:
 |----------------------|--------------------------------------------|
 | 🔍 Searching         | linearsearch.c, binarysearch.c             |
 | 🔃 Sorting           | bubblesort.c, insertionsort.c, selectionsort.c |
-| 🧮 Math Operations   | factorial.c, gcd.c, multiplication.c, matrixaddition.c |
+| 🧮 Math Operations   | factorial.c, ➗ gcd.c, 📊 maxminarray.c, multiplication.c, matrixaddition.c |
 | 📁 File Handling     | filecopy.c, mergefile.c                    |
 | 🧵 Strings & Functions | string.c, function.c                     |
 | 💻 Command-Line Args | cmdlineargs.c                              |
@@ -69,9 +70,9 @@ This repository serves as a hands-on reference for:
 
 ## 👨‍💻 Author
 
-**Aadhithya**  
+**Aadhithya Gavli**  
 🎓 First-year Electronics Engineering student  
-🏫 CVR College of Engineering, Hyderabad | Passionate about C, GitHub branding, and algorithmic mastery  
+🏫 CVR College of Engineering, Hyderabad  | Passionate about C, GitHub branding, and algorithmic mastery  
 
 ---
 
@@ -86,7 +87,7 @@ If you find a bug 🐛 or want to improve a program ✨, feel free to fork and c
 
 MIT License  
 
-Copyright (c) 2026 **Aadhithya**  
+Copyright (c) 2026 **Aadhithya Gavli**  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy  
 of this software and associated documentation files (the "Software"), to deal  
@@ -107,3 +108,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.  
 
 ---
+
+
+
+
+
+
