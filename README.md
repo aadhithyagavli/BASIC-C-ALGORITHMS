@@ -1,5 +1,11 @@
 # 🔧 C-ALGORITHMS
 
+![Language](https://img.shields.io/badge/language-C-blue.svg)
+![Stars](https://img.shields.io/github/stars/your-username/C-ALGORITHMS?style=social)
+![Forks](https://img.shields.io/github/forks/your-username/C-ALGORITHMS?style=social)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Repo Size](https://img.shields.io/github/repo-size/your-username/C-ALGORITHMS)
+
 A curated collection of foundational C programs covering sorting, searching, mathematical operations, file handling, and user-defined data types.  
 This repository is designed for learners, educators, and developers who want to understand core algorithmic logic in C. 🚀
 
@@ -8,23 +14,24 @@ This repository is designed for learners, educators, and developers who want to 
 ## 📂 Folder Structure
 
 C-ALGORITHMS/
-├── bubblesort.c  
-├── insertionsort.c  
-├── selectionsort.c  
-├── linearsearch.c  
-├── binarysearch.c  
-├── factorial.c  
-├── matrixaddition.c  
-├── multiplication.c  
-├── cmdlineargs.c  
-├── userdefinedunion.c  
-├── filecopy.c  
-├── string.c  
-├── function.c  
-├── complexno.c  
-├── mergefile.c  
-├── improve-linearsearch.c  
-├── a.out / *.exe (compiled outputs)
+├── 🫧 bubblesort.c  
+├── 📥 insertionsort.c  
+├── 🔎 selectionsort.c  
+├── 🔍 linearsearch.c  
+├── 🔎 binarysearch.c  
+├── 🧮 factorial.c  
+├── ➗ gcd.c  
+├── ➕ matrixaddition.c  
+├── ✖️ multiplication.c  
+├── 💻 cmdlineargs.c  
+├── 🧬 userdefinedunion.c  
+├── 📁 filecopy.c  
+├── 🧵 string.c  
+├── 🛠️ function.c  
+├── 🔢 complexno.c  
+├── 📂 mergefile.c  
+├── ⚙️ improve-linearsearch.c  
+├── 📦 a.out / *.exe (compiled outputs)
 
 ---
 
@@ -41,7 +48,7 @@ Compile any `.c` file using GCC:
 |----------------------|--------------------------------------------|
 | 🔍 Searching         | linearsearch.c, binarysearch.c             |
 | 🔃 Sorting           | bubblesort.c, insertionsort.c, selectionsort.c |
-| 🧮 Math Operations   | factorial.c, multiplication.c, matrixaddition.c |
+| 🧮 Math Operations   | factorial.c, gcd.c, multiplication.c, matrixaddition.c |
 | 📁 File Handling     | filecopy.c, mergefile.c                    |
 | 🧵 Strings & Functions | string.c, function.c                     |
 | 💻 Command-Line Args | cmdlineargs.c                              |
@@ -53,24 +60,25 @@ Compile any `.c` file using GCC:
 ## 🎯 Purpose
 
 This repository serves as a hands-on reference for:
-- Practicing C programming fundamentals  
-- Understanding algorithmic flow and pointer logic  
-- Preparing for technical interviews and academic labs  
-- Building a strong GitHub portfolio with clean, modular code ✨  
+- 🖥️ Practicing C programming fundamentals  
+- 🔗 Understanding algorithmic flow and pointer logic  
+- 📚 Preparing for technical interviews and academic labs  
+- 🌟 Building a strong GitHub portfolio with clean, modular code  
 
 ---
 
 ## 👨‍💻 Author
 
 **Aadhithya**  
-First-year Electronics  Engineering student  
-CVR College of Engineering, Hyderabad | Passionate about C, GitHub branding, and algorithmic mastery  
+🎓 First-year Electronics Engineering student  
+🏫 CVR College of Engineering, Hyderabad | Passionate about C, GitHub branding, and algorithmic mastery  
 
 ---
 
 ## 🤝 Contributions
 
-Pull requests and suggestions are welcome! If you find a bug or want to improve a program, feel free to fork and contribute. 🌟
+Pull requests and suggestions are welcome!  
+If you find a bug 🐛 or want to improve a program ✨, feel free to fork and contribute. 🌟
 
 ---
 
