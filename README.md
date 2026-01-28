@@ -64,8 +64,7 @@ This repository serves as a hands-on reference for:
 
 **Aadhithya**  
 First-year Electronics  Engineering student  
-CVR College of Engineering, Hyderabad  
-Class Representative | Passionate about C, GitHub branding, and algorithmic mastery  
+CVR College of Engineering, Hyderabad | Passionate about C, GitHub branding, and algorithmic mastery  
 
 ---
 
