@@ -2,10 +2,9 @@
 
 ![Language](https://img.shields.io/badge/language-C-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Repo Size](https://img.shields.io/github/repo-size/aadhithya/C-ALGORITHMS)
-![Stars](https://img.shields.io/github/stars/aadhithya/C-ALGORITHMS?style=social)
-![Forks](https://img.shields.io/github/forks/aadhithya/C-ALGORITHMS?style=social)
-
+![Repo Size](https://img.shields.io/github/repo-size/aadhithyagavli/C-ALGORITHMS)
+![Stars](https://img.shields.io/github/stars/aadhithyagavli/C-ALGORITHMS?style=social)
+![Forks](https://img.shields.io/github/forks/aadhithyagavli/C-ALGORITHMS?style=social)
 
 A curated collection of foundational C programs covering sorting, searching, mathematical operations, file handling, and user-defined data types.  
 This repository is designed for learners, educators, and developers who want to understand core algorithmic logic in C. 🚀
