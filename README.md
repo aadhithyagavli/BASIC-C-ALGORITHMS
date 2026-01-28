@@ -63,7 +63,7 @@ This repository serves as a hands-on reference for:
 ## 👨‍💻 Author
 
 **Aadhithya**  
-First-year Electronics & Instrumentation Engineering student  
+First-year Electronics  Engineering student  
 CVR College of Engineering, Hyderabad  
 Class Representative | Passionate about C, GitHub branding, and algorithmic mastery  
 
